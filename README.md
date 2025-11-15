@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Mutasem Alsallout</h1>
-<h3 align="center">Asp.net core Developer</h3>
-
-- 🔭 I’m currently working on **Asp.net core**
+<h3 align="center">ASP.NET Core Developer</h3>
   
 - 🌱 I’m currently learning **Anguler**
   
